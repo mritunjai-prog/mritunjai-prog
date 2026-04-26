@@ -2,7 +2,12 @@
 <h3 align="center">🚀 AI/ML Engineer | GenAI • NLP • RAG Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Generative+AI+Developer;NLP+%26+RAG+Systems;Full+Stack+Builder;Always+Learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Generative+AI+Developer;NLP+%26+RAG+Systems;Full+Stack+Builder;Building+AI+that+ships+to+real+users" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=mritunjai-prog"><img src="https://komarev.com/ghpvc/?username=mritunjai-prog&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" /></a>
+  <a href="https://github.com/mritunjai-prog?tab=followers"><img src="https://img.shields.io/github/followers/mritunjai-prog?style=for-the-badge&logo=github" alt="followers" /></a>
 </p>
 
 ---
@@ -11,8 +16,16 @@
 - 🎓 B.Tech CSE @ SPSU (CGPA: 8.5)
 - 🤖 Specializing in **Generative AI, NLP & RAG Systems**
 - ⚡ Built systems processing **1000+ documents**
-- 🧠 Love solving real-world problems using AI
-- 🚀 Building scalable AI + Full Stack products
+- 🧠 I love turning complex ideas into clean, usable products
+- 🚀 Currently building scalable **AI + Full Stack** applications
+
+---
+
+## 🧩 What I’m Building
+- 📝 Document intelligence workflows with OCR + extraction + RAG
+- 🎯 Student outcome and risk prediction systems
+- 💬 AI chat interfaces for real-world domains
+- 📊 Decision intelligence tools with explainable insights
 
 ---
 
@@ -69,50 +82,45 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 DocuMind — Intelligent Document Processing
+### 🔹 Documind — Intelligent Document Processing
 - 📄 Processed **1000+ documents**
-- 🎯 90% structured extraction accuracy
-- 🔍 OCR + NER + RAG pipeline  
-🔗 GitHub: https://github.com/mritunjai-prog  
-🌐 Live: https://your-live-link
+- 🎯 High-accuracy structured extraction
+- 🔍 OCR + NER + RAG pipeline
+- 🌐 Live: https://documinnd.netlify.app/
 
----
+### 🔹 MentorAid — Student Risk Prediction Platform
+- 🤖 ML-powered student risk prediction
+- 📊 Real-time dashboards for monitoring
+- 🌐 Live: https://mentoraid.netlify.app/
 
-### 🔹 MentorAid — Student Risk Prediction
-- 🤖 6 ML models (RF, SVM, NN)
-- 📊 84% accuracy
-- 📈 Real-time dashboard  
-🔗 GitHub: https://github.com/mritunjai-prog  
+### 🔹 DocentDesk — AI Museum Chatbot
+- 💬 Conversational assistant experience
+- 🔗 Smart integration with contextual responses
+- 🌐 Live: https://docent-desk-ai-chatbot.vercel.app/
 
----
-
-### 🔹 DocentDesk — Museum Chatbot
-- 💬 NLP-based chatbot
-- 🔗 API integration  
-🔗 GitHub: https://github.com/mritunjai-prog  
-
----
-
-### 🔹 KolamCraft — AI Art Generator
-- 🎨 Pattern generation system
-- ⚡ Interactive UI  
-🔗 GitHub: https://github.com/mritunjai-prog  
-
----
+### 🔹 KolamCraft — AI Pattern & Art Generator
+- 🎨 Creative pattern generation
+- ⚡ Fast and interactive UI
+- 🌐 Live: https://kolamcraft-two.vercel.app
 
 ### 🔹 StratosAI — Decision Intelligence Platform
-- 🧠 SWOT + bias analysis using GenAI
-- 📊 Radar charts + decision matrices  
-🔗 GitHub: https://github.com/mritunjai-prog  
+- 🧠 SWOT and bias-aware AI insights
+- 📊 Visual decision support workflows
+- 🌐 Live: https://stratos-ai-rho.vercel.app
+
+### 🔹 Amphitheatre Booking System
+- 🎟️ End-to-end event slot booking flow
+- 🗓️ Venue/session scheduling and reservation experience
+- 🌐 Live: *(add link here if available)*
 
 ---
 
 ## 🏆 Achievements & Certifications
-- 🥇 Microsoft Azure Fundamentals  
-- 🧠 Microsoft Responsible AI  
-- 🏅 NPTEL Java (Elite)  
-- 🐍 Cisco Python Certification  
-- 💻 HackerRank Java & Python  
+- 🥇 Microsoft Azure Fundamentals
+- 🧠 Microsoft Responsible AI
+- 🏅 NPTEL Java (Elite)
+- 🐍 Cisco Python Certification
+- 💻 HackerRank Java & Python
 
 ---
 
@@ -132,4 +140,4 @@
 
 ---
 
-<p align="center">✨ Let's build something amazing together ✨</p>
+<p align="center">✨ Let’s build something amazing together ✨</p>
