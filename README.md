@@ -14,7 +14,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 B.Tech CSE @ SPSU (CGPA: **8.5**)
+- 🎓 B.Tech CSE @ SPSU (CGPA: **8.6**)
 - 🤖 Specialized in **Generative AI, NLP, and RAG pipelines**
 - ⚡ Built systems processing **1000+ documents**
 - 🧠 I enjoy transforming complex ideas into usable products
